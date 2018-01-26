@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', '*********************************');//这里改成您的api key
-define('GJ_CODE', 'KR');//国家代码
-define('SITE_NAME', 'Youtube');//网站名字
-define('TITLENAME', 'Youtube');//网站名字
-define('EN2DEKEY', 'AnQUP1XDEF435e67CtzDSh4');//一个随机字符串，加解密KEY
-define('EMAIL', '123@123.com');//邮箱
+define('APIKEY', 'AIzaSyBuMFc5qGOO3eRW0nOnCLU6nkeNl5vLcZ0');
+define('GJ_CODE', 'jp');
+define('SITE_NAME', 'U2B');
+define('TITLENAME', 'U2B');
+define('EN2DEKEY', '.FDC|"9$9X~A9r^|>1l-gFU]nQ3,FvLYDM[T~hRo5y;jdo#ZId|M^[M|J.~XXx$');
+define('EMAIL', 'l3l451921@gmail.com');
 ?>
